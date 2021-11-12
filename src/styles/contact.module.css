@@ -1,0 +1,42 @@
+.inputGroup {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+  }
+  .inputLabel {
+    text-align: left;
+  }
+  .inputField, .textArea {
+    
+    height: 30px;
+    width: 20vw;
+    margin-left: 40vw;
+  }
+
+  .textArea{
+    min-height: 10vh;
+    max-height: 10vh;
+    min-width: 20vw;
+    max-width: 20vw;
+  }
+
+ .label {
+    margin-left: 40vw;
+    margin-bottom: 5px;
+  }
+
+  .span {
+    color:red;
+    margin-left: 40vw;
+  }
+
+  .send {
+    width: 6vw;
+    margin-left: 47vw;
+  }
+  
+  .center {
+    text-align: center;
+  }
